@@ -1,7 +1,9 @@
 (set objects '(whiskey-bottle bucket frog chain))
+
 (set living-room "Super-cool data.")
 (set garden "Even cooler data.")
 (set attic "The best data evar.")
+
 (set state `(#(living-room ,living-room)
                #(garden ,garden)
                #(attic ,attic)))
